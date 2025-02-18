@@ -1,0 +1,132 @@
+ /* Updated Header Styles */
+ header {
+    background: linear-gradient(to right, #1a73e8, #0049b7);
+    color: #fff;
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+.menu li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+    font-size: 16px;
+}
+
+.menu li a:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+  /* Team Members Section */
+  .team-members {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .member {
+    text-align: center;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .member img {
+    border-radius: 50%;
+  }
+  
+  /* Rating System */
+  .rating-system {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .stars span {
+    font-size: 30px;
+    cursor: pointer;
+    color: #ccc;
+  }
+  
+  .stars span.active {
+    color: #ffcc00;
+  }
+  
+/* Updated Footer Styles */
+footer {
+    background: #111;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+
+.footer-links {
+    display: flex;
+    gap: 15px;
+}
+
+.footer-links a {
+    color: #bbb;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s;
+}
+
+.footer-links a:hover {
+    color: #1a73e8;
+}
+
+  /* GitHub Projects Section */
+.github-projects {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .github-projects h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .github-projects ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .github-projects li {
+    margin: 10px 0;
+  }
+  
+  .github-projects a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .github-projects a:hover {
+    color: #ff6347;
+  }
