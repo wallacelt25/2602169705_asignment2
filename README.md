@@ -36,4 +36,4 @@ Our project involves creating a helpdesk ticketing system for **Yippaws**, an en
 
 ## How to View the Project
 
-To view the project, access the Github Live Pages link:[Visit Our GitHub Repository](https://wallacelt25.github.io/2602169705_asignment2/)
+To view the project, access the Github Live Pages link:[Website](https://wallacelt25.github.io/2602169705_asignment2/)
