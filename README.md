@@ -1,12 +1,12 @@
-# Final Project Group: TrioWads Entrusted Service
+# Final Project Group Sample WebPage: TrioWads Entrusted Service
 
-Welcome to the repository for the TrioWads Entrusted Service Final Project. This project is developed by a team of three members as part of our Web Application Development and Security (WADS) course.
+Welcome to the repository for the TrioWads Entrusted Service Final Project Group Sample WebPage:. This is the repository for the individual profile pages of the team member of TrioWADS.
 
 ## Project Overview
 
 Our project involves creating a helpdesk ticketing system for **Yippaws**, an entrusted service business. The system aims to streamline customer support by efficiently managing and resolving service tickets.
 
-## Team Members
+## Team Members Names along with the HTMLs
 
 - **Wallace Louis Tjang**
   - *Role:* Designer
@@ -28,12 +28,6 @@ Our project involves creating a helpdesk ticketing system for **Yippaws**, an en
 - `script.js`: JavaScript file for interactive functionalities.
 - `Wallace.jpg`, `Galih.jpg`, `Ari.jpg`: Profile images of the team members.
 
-## Features
-
-- **Team Introduction:** Meet our team and understand our roles in the project.
-- **Project Description:** An overview of the Yippaws helpdesk ticketing system.
-- **Member Profiles:** Detailed profiles highlighting each member's contributions and expertise.
-
-## How to View the Project
+## How to View the Main Profile Pages for the selection of member's profile
 
 To view the project, access the Github Live Pages link:[Website](https://wallacelt25.github.io/2602169705_asignment2/)
